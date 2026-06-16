@@ -1,0 +1,42 @@
+[
+  {
+    "item_name": "Classic Blue Denim",
+    "category": "Denim",
+    "weekly_units_sold": 22,
+    "selling_price": 60,
+    "stock_remaining": 120,
+    "cost_price": 28,
+    "season": "All Season",
+    "sku": "DNM001"
+  },
+  {
+    "item_name": "Summer Floral Dress",
+    "category": "Dresses",
+    "weekly_units_sold": 8,
+    "selling_price": 80,
+    "stock_remaining": 240,
+    "cost_price": 35,
+    "season": "Summer",
+    "sku": "DRS001"
+  },
+  {
+    "item_name": "Basic White Tee",
+    "category": "T-Shirts",
+    "weekly_units_sold": 30,
+    "selling_price": 25,
+    "stock_remaining": 90,
+    "cost_price": 8,
+    "season": "All Season",
+    "sku": "TEE001"
+  },
+  {
+    "item_name": "Winter Puffer Jacket",
+    "category": "Outerwear",
+    "weekly_units_sold": 4,
+    "selling_price": 150,
+    "stock_remaining": 300,
+    "cost_price": 70,
+    "season": "Winter",
+    "sku": "OUT001"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Denim",
+    "trend_score": 82,
+    "trend_direction": "Growing"
+  },
+  {
+    "category": "Dresses",
+    "trend_score": 44,
+    "trend_direction": "Declining"
+  },
+  {
+    "category": "T-Shirts",
+    "trend_score": 77,
+    "trend_direction": "Stable"
+  },
+  {
+    "category": "Outerwear",
+    "trend_score": 28,
+    "trend_direction": "Declining"
+  }
+]
